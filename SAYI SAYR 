@@ -1,0 +1,13 @@
+<!doctype html>
+<html> 
+ <head> 
+  <title>ŞANS</title> 
+  <link rel="stylesheet" href="style.css"> 
+ </head> 
+ <body> 
+  <div class="container"> <button class="button" onclick="generateNumber()">Şansını Dene!</button> 
+   <p id="result"></p> 
+  </div> 
+  <script src="script.js"></script> 
+ </body>
+</html>
